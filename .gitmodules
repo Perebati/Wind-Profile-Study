@@ -1,7 +1,7 @@
 [submodule "EDA_WindProfile"]
-    path = EDA_WindProfile
-    url = https://github.com/Perebati/EDA_WindProfile
+	path = EDA_WindProfile
+	url = https://github.com/Perebati/EDA_WindProfile
 
 [submodule "Wind-Speed-Forecasting"]
-    path = Wind-Speed-Forecasting
-    url = https://github.com/Perebati/Wind-Speed-Forecasting
+	path = Wind-Speed-Forecasting
+	url = https://github.com/Perebati/Wind-Speed-Forecasting
